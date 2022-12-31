@@ -9,3 +9,6 @@ src/models/160722-22h08-t5-base filter=lfs diff=lfs merge=lfs -text
 src/models/180722-00h26-t5-large filter=lfs diff=lfs merge=lfs -text
 src/models/160722-22h02-t5-small/e10_b1600_model.pth filter=lfs diff=lfs merge=lfs -text
 src/models/160722-22h08-t5-base/e9_b1600_model.pth filter=lfs diff=lfs merge=lfs -text
+src/models/180722-00h26-t5-large/new_model.pth filter=lfs diff=lfs merge=lfs -text
+data/pens/news.tsv filter=lfs diff=lfs merge=lfs -text
+data/pens/personalized_test.tsv filter=lfs diff=lfs merge=lfs -text
