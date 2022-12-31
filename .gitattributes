@@ -1,1 +1,6 @@
 data/roto_final_all_critic_reviews.json filter=lfs diff=lfs merge=lfs -text
+src/models/030922-01h13-t5-small_50/ filter=lfs diff=lfs merge=lfs -text
+src/models/030922-01h03-t5-base_50/ filter=lfs diff=lfs merge=lfs -text
+src/models/160722-22h02-t5-small/ filter=lfs diff=lfs merge=lfs -text
+src/models/160722-22h08-t5-base/ filter=lfs diff=lfs merge=lfs -text
+src/models/180722-00h26-t5-large/ filter=lfs diff=lfs merge=lfs -text
